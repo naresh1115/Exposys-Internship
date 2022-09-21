@@ -3,13 +3,13 @@ ________________________________________________________________________________
 
 Libraries Used : 
 
-1.numpy 
-2.pandas
-3.sklearn
-4.matplotlib
-5.seaborn
-6.Prediction Error
-7.ResidualsPlot 
+- 1.numpy 
+- 2.pandas
+- 3.sklearn
+- 4.matplotlib
+- 5.seaborn
+- 6.Prediction Error
+- 7.ResidualsPlot 
 
 __________________________________________________________________________________
 
